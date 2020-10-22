@@ -1,0 +1,147 @@
+{
+  "websites": [
+    {
+      "id": 1,
+      "name": "Cosy Toes",
+      "product":"Socks",
+      "url": "https://www.cosytoes.co.nz/"
+    },
+    {
+      "id": 2,
+      "name": "Buckles & Tees",
+      "product":"knife Holders", 
+      "url": "https://www.bucklesandtees.co.nz/index.php/"
+    },
+    {
+      "id": 3,
+      "name": "Martinez",
+      "product":"Sausage",
+      "url": "https://www.martinez.co.nz/"
+    },
+    {
+      "id": 4,
+      "name": "Penny Lou",
+      "product":"Clothing",
+      "url": "https://pennylou.co.nz/"
+    },
+    {
+      "id": 5,
+      "name": "RealBeer",
+      "product":"Beer",
+      "url": "https://realbeer.co.nz/"
+    },
+    {
+      "id": 6,
+      "name": "Georgia Jay",
+      "product":"Handbags",
+      "url": "https://www.georgiajay.com/"
+    },
+    {
+      "id": 7,
+      "name": "Ecoya",
+      "product":"Car Smells",
+      "url": "https://www.ecoya.co.nz/"
+      
+    },
+    {
+      "id": 8,
+      "name": "K-O.",
+      "product":"Shampoo",
+      "url": "https://kohaircare.nz/"
+      
+    },
+    {
+      "id": 9,
+      "name": "Icing ON The Cake",
+      "product":"Cake",
+      "url": "http://icingonthecake.co.nz/"
+      
+    },
+    {
+      "id": 10,
+      "name": "Basically Bush",
+      "product":"Possum Pelts",
+      "url": "https://www.ecoya.co.nz/"
+      
+    },
+    {
+      "id": 11,
+      "name": "DC Wines",
+      "product":"Wine",
+      "url": "https://www.tannacrieff.co.nz/"
+      
+    },
+    {
+      "id": 12,
+      "name": "Terra Nut Cheese",
+      "product":"Vegan Cheese",
+      "url": "https://www.terranutcheese.co.nz/"
+      
+    },
+    {
+      "id": 13,
+      "name": "Filigree",
+      "product":"Jewels",
+      "url": "https://filigree.co.nz/"
+      
+    },
+    {
+      "id": 14,
+      "name": "Made Good",
+      "product":"Decor",
+      "url": "https://madegood.co.nz/pages/about"
+      
+    },
+    {
+      "id": 15,
+      "name": "NZ Petfoods",
+      "product":"Pet Food",
+      "url": "https://www.nzpetfoods.co.nz/"
+      
+    },
+    {
+      "id": 16,
+      "name": "Kiwi Made Toys",
+      "product":"Kids Toys",
+      "url": "http://www.kiwimadetoys.co.nz/"
+      
+    },
+    {
+      "id": 17,
+      "name": "Hills Hats",
+      "product":"Face Masks & Hats",
+      "url": "https://hillshats.co.nz/masks/"
+      
+    },
+    {
+      "id": 18,
+      "name": "Barbeque",
+      "product":"Barbeques",
+      "url": "https://www.bbqnz.co.nz/"
+      
+    },
+    {
+      "id": 19,
+      "name": "Boonies",
+      "product":"Gumboots",
+      "url": "https://www.boonies.co.nz/"
+      
+    },
+    {
+      "id": 20,
+      "name": "Pep;ers",
+      "product":"Chutneys",
+      "url": "https://www.peplers.co.nz/"
+      
+    }
+
+
+
+
+
+
+
+
+
+  ]
+}
