@@ -2,7 +2,7 @@ const express = require('express')
 const hbs = require('express-handlebars')
 
 const homeRoute = require('./homeRoute')
-const focus = require('./focus')
+const edit = require('./edit')
 
 const server = express()
 
@@ -17,7 +17,7 @@ server.use(express.urlencoded({extended: false}))
 
 //routes
 server.use('/',homeRoute)
-server.use('/',focus)
+server.use('/',edit)
 
 
 
