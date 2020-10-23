@@ -9,6 +9,14 @@ router.get('/addMothball', (req,res) => {
 
 })
 
+router.get('/Mothballadded', (req,res) => {
+  
+  res.render('submitted')
+
+})
+
+
+
 router.post('/addMothball', (req,res) => {
   
   //reads json file
@@ -26,13 +34,16 @@ router.post('/addMothball', (req,res) => {
       }
 
     fs.writeFile('./data.json', JSON.stringify(data), (err) => {
-      
+      res.redirect('Mothballadded')
     })
     
     
   })
 
+
+
 })
+
 
 
 module.exports = router

@@ -39,3 +39,9 @@ footer {
   font-family: "Press Start 2P", cursive;
   text-shadow: 4px 4px white;
 }
+
+.submitted {
+  text-align: center;
+  padding: 200px;
+
+}
