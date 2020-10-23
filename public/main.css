@@ -25,6 +25,7 @@ ul {
 body {
   background-color: rgb(255, 0, 141);
   font-family: "Press Start 2P", cursive;
+  box-sizing: border-box;
 }
 
 footer {
@@ -38,4 +39,27 @@ footer {
   font-size: 5vw;
   font-family: "Press Start 2P", cursive;
   text-shadow: 4px 4px white;
+}
+
+.nav-bar ul {
+  margin-top: -4vw;
+  margin-right: 1vw;
+  float: right;
+}
+
+.nav-bar li {
+  display: inline;
+  margin-left: 2vw;
+}
+
+.nav-bar a {
+  text-decoration: none;
+}
+
+.nav-bar a:hover {
+  text-decoration: underline;
+}
+
+.nav-bar a:visited {
+  color: black;
 }
