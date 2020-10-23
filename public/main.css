@@ -1,7 +1,7 @@
 .grid-container {
   display: grid;
   grid-template-columns: auto auto auto;
-  background-color: rgb(255,0,141);
+  background-color: rgb(255, 0, 141);
   padding: 10px;
 }
 #grid-item {
@@ -20,17 +20,22 @@ ul {
 
 .grid-item:hover {
   background-color: aqua;
-
 }
 
 body {
-  background-color: rgb(255,0,141);
+  background-color: rgb(255, 0, 141);
+  font-family: "Press Start 2P", cursive;
 }
 
 footer {
   text-align: center;
   padding: 3px;
-  background-color: rgb(250,237,39);
-  color: rgb(28,28,28);
+  background-color: rgb(250, 237, 39);
+  color: rgb(28, 28, 28);
 }
 
+.nav-title {
+  font-size: 5vw;
+  font-family: "Press Start 2P", cursive;
+  text-shadow: 4px 4px white;
+}
