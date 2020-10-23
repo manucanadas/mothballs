@@ -41,6 +41,7 @@ footer {
   text-shadow: 4px 4px white;
 }
 
+
 .nav-bar ul {
   margin-top: -4vw;
   margin-right: 1vw;
@@ -90,3 +91,10 @@ input[type="submit"] {
 input[type="submit"]:hover {
   background-color: rgb(250, 237, 39);
 }
+
+.submitted {
+  text-align: center;
+  padding: 200px;
+
+}
+
