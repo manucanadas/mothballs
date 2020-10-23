@@ -1,7 +1,7 @@
 .grid-container {
   display: grid;
   grid-template-columns: auto auto auto;
-  background-color: blueviolet;
+  background-color: rgb(255,0,141);
   padding: 10px;
 }
 #grid-item {
@@ -24,13 +24,13 @@ ul {
 }
 
 body {
-  background-color: blueviolet;
+  background-color: rgb(255,0,141);
 }
 
 footer {
   text-align: center;
   padding: 3px;
-  background-color: DarkSalmon;
-  color: white;
+  background-color: rgb(250,237,39);
+  color: rgb(28,28,28);
 }
 
