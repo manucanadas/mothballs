@@ -25,6 +25,7 @@ ul {
 body {
   background-color: rgb(255, 0, 141);
   font-family: "Press Start 2P", cursive;
+  box-sizing: border-box;
 }
 
 footer {
@@ -40,8 +41,60 @@ footer {
   text-shadow: 4px 4px white;
 }
 
+
+.nav-bar ul {
+  margin-top: -4vw;
+  margin-right: 1vw;
+  float: right;
+}
+
+.nav-bar li {
+  display: inline;
+  margin-left: 2vw;
+}
+
+.nav-bar a {
+  text-decoration: none;
+}
+
+.nav-bar a:hover {
+  text-decoration: underline;
+}
+
+.nav-bar a:visited {
+  color: black;
+}
+
+.form {
+  /* margin: 0 auto; */
+  text-align: center;
+  margin-top: 5vw;
+}
+
+.form label {
+  display: block;
+  margin-top: 2vw;
+}
+
+.form input {
+  padding: 2vw;
+  width: 50%;
+  border-radius: 2px;
+}
+
+input[type="submit"] {
+  font-family: "Press Start 2P", cursive;
+  margin-top: 3vw;
+  font-size: 3vw;
+}
+
+input[type="submit"]:hover {
+  background-color: rgb(250, 237, 39);
+}
+
 .submitted {
   text-align: center;
   padding: 200px;
 
 }
+
